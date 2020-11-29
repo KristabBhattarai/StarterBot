@@ -7,9 +7,7 @@ module.exports.run = async (bot, message, args) =>{
     .setTitle('Help menu of Order It')
     .setDescription('Detail.')
     .addField("If you got any problem using this source code then join our server" , "https://discord.gg/EZDfrer")
-    .addField("" , "")
-    .addField("" ,"")
-    .addField("" , "")
+    
     message.channel.send(HelpEmbed)
 
 

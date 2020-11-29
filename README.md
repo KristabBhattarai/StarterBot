@@ -1,7 +1,7 @@
 # starterbot
 Are you new to coding in discord.js ? then this will help you to start your journey.
 
-Made by @KristabBhattarai
+Made by @KristabBhattarai [https://github.com/KristabBhattarai/]
 
 For any support of this code Join our discord server.
 Server link: https://discord.gg/EZDfrer

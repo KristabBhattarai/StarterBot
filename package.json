@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": " ",
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "engines": {
     "node": "12.x"
@@ -13,8 +13,7 @@
   "author": "Kristab",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^12.2.0",
-    "nodemon": "^2.0.6"
+    "discord.js": "^12.2.0"
   }
 }
 

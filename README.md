@@ -3,7 +3,7 @@ Are you new to coding in discord.js ?
 Then this will help you to start your journey.
 
 > **Made by [@KristabBhattarai](https://github.com/KristabBhattarai/)**
-**Invite my bot : [Order It](https://orderit.ga/invite.html)**
+> **Invite my bot : [Order It](https://orderit.ga/invite.html)**
 
 For any support of this code Join our discord server.
 **Server link: https://discord.gg/EZDfrer**

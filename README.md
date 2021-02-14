@@ -17,7 +17,7 @@ For any support of this code Join our discord server.
 
 
 
-**botconfig.json **
+**botconfig.json**
 
 ```js
 {

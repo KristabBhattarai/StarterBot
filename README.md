@@ -6,6 +6,8 @@ Then this will help you to start your journey.
 
 > **Invite my bot : [Order It](https://orderit.ga/invite.html)**
 
+[![Discord Bots](https://top.gg/api/widget/716257964767445043.svg)](https://top.gg/bot/716257964767445043)
+
 For any support of this code Join our discord server.
 **Server link: https://discord.gg/EZDfrer**
 

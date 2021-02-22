@@ -4,7 +4,7 @@ Then this will help you to start your journey.
 
 > **Made by [@KristabBhattarai](https://github.com/KristabBhattarai/)**
 
-> **Invite my bot : [Order It](https://orderit.ga/invite.html)** [![Discord Bots](https://top.gg/api/widget/716257964767445043.svg)](https://top.gg/bot/716257964767445043)
+> **Invite my bot : [Order It](https://orderit.ga/invite.html)** [![Discord Bots](https://top.gg/api/widget/status/716257964767445043.svg)](https://top.gg/bot/716257964767445043)
 
 [![Discord Bots](https://top.gg/api/widget/716257964767445043.svg)](https://top.gg/bot/716257964767445043)
 
